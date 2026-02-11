@@ -7,7 +7,7 @@ I’m a **backend-focused software engineer** with strong **DevOps engineering e
 ---
 
 
-![Sweet Banner Example](https://github.com/user-attachments/assets/484c1d55-7321-4c2b-9d99-0648f5c7e92f)
+
 
 
 ## 🔧 What I Work On
